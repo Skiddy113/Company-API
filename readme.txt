@@ -1,0 +1,1 @@
+company api with employee and resignation where employees shows full details of designation which is in other collection of db (populate).
